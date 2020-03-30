@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<destinations>
+  <destination code="FST">
+    <displayname>FST - Fyens Stiftstidende</displayname>
+  </destination>
+  <destination code="FAA">
+    <displayname>FAA - Fyns Amts Avis</displayname>
+  </destination>
+  <destination code="SDR">
+    <displayname>SDR - JV Sønderborg</displayname>
+  </destination>
+  <destination code="BIL">
+    <displayname>BIL - JV Billund</displayname>
+  </destination>
+  <destination code="VAR">
+    <displayname>VAR - JV Varde</displayname>
+  </destination>
+  <destination code="ESB">
+    <displayname>ESB - JV Esbjerg</displayname>
+  </destination>
+  <destination code="HAD">
+    <displayname>HAD - JV Haderslev</displayname>
+  </destination>
+  <destination code="KOL">
+    <displayname>KOL - JV Kolding</displayname>
+  </destination>
+  <destination code="TON">
+    <displayname>TON - JV Tønder</displayname>
+  </destination>
+  <destination code="AAB">
+    <displayname>AAB - JV Aabenraa</displayname>
+  </destination>
+  <destination code="VEJ">
+    <displayname>VEJ - JV Vejen</displayname>
+  </destination>
+  <destination code="HOF">
+    <displayname>HOF - Horsens Folkeblad</displayname>
+  </destination>
+  <destination code="VAF">
+    <displayname>VAF - Vejle Amts Folkeblad</displayname>
+  </destination>
+  <destination code="FRD">
+    <displayname>FRD - Fredericia Dagblad</displayname>
+  </destination>
+  <destination code="RAM">
+    <displayname>RAM - Randers Amtsavis</displayname>
+  </destination>
+  <destination code="AAS">
+    <displayname>AAS - Aarhus Stiftstidende</displayname>
+  </destination>
+  <destination code="DHS">
+    <displayname>DHS - Dagbladet Holstebro</displayname>
+  </destination>
+  <destination code="VSF">
+    <displayname>VSF - Viborg Stifts Folkeblad</displayname>
+  </destination>
+  <destination code="DRS">
+    <displayname>DRS - Dagbladet Ringkøbing Skjern</displayname>
+  </destination>
+  <destination code="LEF">
+    <displayname>LEF - Lemvig Folkeblad</displayname>
+  </destination>
+  <destination code="DST">
+    <displayname>DST - Dagbladet Struer</displayname>
+  </destination>
+</destinations>

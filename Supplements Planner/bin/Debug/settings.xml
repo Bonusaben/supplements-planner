@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+	<XMLDestinationDir>XML-out\</XMLDestinationDir>
+	<ImageFolder>Images\</ImageFolder>
+	<ftpserver>ftp.e-pages.dk</ftpserver>
+	<port>21</port>
+	<username>JyFyMedier</username>
+	<password>s8Ti9nR</password>
+</settings>

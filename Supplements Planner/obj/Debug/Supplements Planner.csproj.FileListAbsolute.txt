@@ -1,0 +1,24 @@
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Supplements Planner.exe.config
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Supplements Planner.exe
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Supplements Planner.pdb
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Supplements Planner.csprojAssemblyReference.cache
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\supplements_planner.Properties.Resources.resources
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Supplements Planner.csproj.GenerateResource.cache
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Supplements Planner.csproj.CoreCompileInputs.cache
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Supplements Planner.exe
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Supplements Planner.pdb
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\bin\Debug\Supplements Planner.exe.config
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\bin\Debug\Supplements Planner.exe
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\bin\Debug\Supplements Planner.pdb
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\obj\Debug\Supplements Planner.csprojAssemblyReference.cache
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\obj\Debug\supplements_planner.Properties.Resources.resources
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\obj\Debug\Supplements Planner.csproj.GenerateResource.cache
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\obj\Debug\Supplements Planner.csproj.CoreCompileInputs.cache
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\obj\Debug\Supplements Planner.exe
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\obj\Debug\Supplements Planner.pdb
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\bin\Debug\FluentFTP.dll
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\bin\Debug\FluentFTP.xml
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\obj\Debug\Supplements Planner.csproj.CopyComplete
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\bin\Debug\cs-pdf-to-image.dll
+C:\Users\renha\source\repos\Supplements Planner\Supplements Planner\obj\Debug\supplements_planner.Form1.resources

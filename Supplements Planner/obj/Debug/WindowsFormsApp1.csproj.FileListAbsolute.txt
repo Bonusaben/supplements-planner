@@ -1,0 +1,10 @@
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Supplements Planner.exe.config
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Supplements Planner.exe
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Supplements Planner.pdb
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\supplements_planner.Properties.Resources.resources
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Supplements Planner.exe
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Supplements Planner.pdb
+C:\Users\renha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
